@@ -1,0 +1,6 @@
+@CarApi3March_HostAddress = http://localhost:5073
+
+GET {{CarApi3March_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

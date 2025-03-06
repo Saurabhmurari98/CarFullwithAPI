@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\0e5d09b1-7ae2-4173-aa41-9d7583db1b22.png",
+      "PackagePath": "staticwebassets\\images\\0e5d09b1-7ae2-4173-aa41-9d7583db1b22.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\10d67c60-786c-4088-b8ba-afe495267edd.png",
+      "PackagePath": "staticwebassets\\images\\10d67c60-786c-4088-b8ba-afe495267edd.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\19b86c9f-3262-4770-bb50-b1ca72b323b9.png",
+      "PackagePath": "staticwebassets\\images\\19b86c9f-3262-4770-bb50-b1ca72b323b9.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\1dd95673-b8d3-4049-a863-4cec69144cf6.png",
+      "PackagePath": "staticwebassets\\images\\1dd95673-b8d3-4049-a863-4cec69144cf6.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\20a7405d-fef7-4dbe-a6d2-f4548f4692b7.png",
+      "PackagePath": "staticwebassets\\images\\20a7405d-fef7-4dbe-a6d2-f4548f4692b7.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\24b561ec-532a-4a7b-ae69-61e22323d031.png",
+      "PackagePath": "staticwebassets\\images\\24b561ec-532a-4a7b-ae69-61e22323d031.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\2c931bd0-9232-4e8a-b0ac-bafb6b9b8508.png",
+      "PackagePath": "staticwebassets\\images\\2c931bd0-9232-4e8a-b0ac-bafb6b9b8508.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\32645c93-990e-4f72-bc79-e05ba79f1dff.png",
+      "PackagePath": "staticwebassets\\images\\32645c93-990e-4f72-bc79-e05ba79f1dff.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\4ea32402-a15c-4177-9cbc-3667a9a1b4f5.png",
+      "PackagePath": "staticwebassets\\images\\4ea32402-a15c-4177-9cbc-3667a9a1b4f5.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\5f6170cf-15bc-4107-91e7-fd93337d6469.png",
+      "PackagePath": "staticwebassets\\images\\5f6170cf-15bc-4107-91e7-fd93337d6469.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\63440e3f-13a7-46ff-a2aa-460c4c088622.png",
+      "PackagePath": "staticwebassets\\images\\63440e3f-13a7-46ff-a2aa-460c4c088622.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\661ce1a2-e0d3-4206-8a3b-d4364d6a4d06.png",
+      "PackagePath": "staticwebassets\\images\\661ce1a2-e0d3-4206-8a3b-d4364d6a4d06.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\69d59f6c-53f3-4e03-a368-fa89e25fcf2c.png",
+      "PackagePath": "staticwebassets\\images\\69d59f6c-53f3-4e03-a368-fa89e25fcf2c.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\70c4f8c4-aab7-43ae-9eb9-34bf038e1d7a.png",
+      "PackagePath": "staticwebassets\\images\\70c4f8c4-aab7-43ae-9eb9-34bf038e1d7a.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\72059a1f-7015-412a-921e-334a97955032.png",
+      "PackagePath": "staticwebassets\\images\\72059a1f-7015-412a-921e-334a97955032.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\7c02961b-36ca-4a6e-9689-73a8462a86a5.png",
+      "PackagePath": "staticwebassets\\images\\7c02961b-36ca-4a6e-9689-73a8462a86a5.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\81a2ec1d-e865-43e2-a55b-c0158d618651.png",
+      "PackagePath": "staticwebassets\\images\\81a2ec1d-e865-43e2-a55b-c0158d618651.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\8711c03e-9cbd-4e67-8542-c50305ae7781.png",
+      "PackagePath": "staticwebassets\\images\\8711c03e-9cbd-4e67-8542-c50305ae7781.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\8dfd82e5-5d88-4174-a7b9-a1fe011ed735.png",
+      "PackagePath": "staticwebassets\\images\\8dfd82e5-5d88-4174-a7b9-a1fe011ed735.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\8e563008-04cf-4550-b4ae-ee2ca929d622.png",
+      "PackagePath": "staticwebassets\\images\\8e563008-04cf-4550-b4ae-ee2ca929d622.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\98200204-7be6-4541-a2fb-c1e292815319.png",
+      "PackagePath": "staticwebassets\\images\\98200204-7be6-4541-a2fb-c1e292815319.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\a079ba15-4d2d-4250-85eb-0d50b6e7b623.png",
+      "PackagePath": "staticwebassets\\images\\a079ba15-4d2d-4250-85eb-0d50b6e7b623.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\a9c88039-7e24-4478-a0c9-f13901dfb2f7.png",
+      "PackagePath": "staticwebassets\\images\\a9c88039-7e24-4478-a0c9-f13901dfb2f7.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\ade309b8-82d6-4f00-8766-38b0a349b87f.png",
+      "PackagePath": "staticwebassets\\images\\ade309b8-82d6-4f00-8766-38b0a349b87f.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\c2e124df-f6b8-4378-9d4c-044790e17e9c.png",
+      "PackagePath": "staticwebassets\\images\\c2e124df-f6b8-4378-9d4c-044790e17e9c.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\d172a6b1-f213-48a1-a956-c45e1f12d9d7.png",
+      "PackagePath": "staticwebassets\\images\\d172a6b1-f213-48a1-a956-c45e1f12d9d7.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\dbb04242-50b6-4b1a-b3bf-686b3f3d4683.png",
+      "PackagePath": "staticwebassets\\images\\dbb04242-50b6-4b1a-b3bf-686b3f3d4683.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\e0a43fbe-a228-42bf-885f-3471692204a8.png",
+      "PackagePath": "staticwebassets\\images\\e0a43fbe-a228-42bf-885f-3471692204a8.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\f0cb3e32-4c6b-4981-b961-0b6f690171f6.png",
+      "PackagePath": "staticwebassets\\images\\f0cb3e32-4c6b-4981-b961-0b6f690171f6.png"
+    },
+    {
+      "Id": "D:\\CarApi3March\\wwwroot\\images\\f862d845-9016-498d-a173-6657e6a05490.png",
+      "PackagePath": "staticwebassets\\images\\f862d845-9016-498d-a173-6657e6a05490.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarApi3March.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarApi3March.props",
+      "PackagePath": "build\\CarApi3March.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarApi3March.props",
+      "PackagePath": "buildMultiTargeting\\CarApi3March.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarApi3March.props",
+      "PackagePath": "buildTransitive\\CarApi3March.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

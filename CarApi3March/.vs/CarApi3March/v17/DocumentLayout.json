@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CarApi3March\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\controllers\\cardetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:controllers\\cardetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\carapi3march.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:carapi3march.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\model\\cardetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:model\\cardetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\model\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:model\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|d:\\carapi3march\\model\\cardetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BE499-ECD1-4A13-B1CA-1F5865761431}|CarApi3March.csproj|solutionrelative:model\\cardetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarApi3March",
+              "DocumentMoniker": "D:\\CarApi3March\\CarApi3March.csproj",
+              "RelativeDocumentMoniker": "CarApi3March.csproj",
+              "ToolTip": "D:\\CarApi3March\\CarApi3March.csproj",
+              "RelativeToolTip": "CarApi3March.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T06:13:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDBContext.cs",
+              "DocumentMoniker": "D:\\CarApi3March\\CarDBContext.cs",
+              "RelativeDocumentMoniker": "CarDBContext.cs",
+              "ToolTip": "D:\\CarApi3March\\CarDBContext.cs",
+              "RelativeToolTip": "CarDBContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:40:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarDetailResponse.cs",
+              "DocumentMoniker": "D:\\CarApi3March\\Model\\CarDetailResponse.cs",
+              "RelativeDocumentMoniker": "Model\\CarDetailResponse.cs",
+              "ToolTip": "D:\\CarApi3March\\Model\\CarDetailResponse.cs",
+              "RelativeToolTip": "Model\\CarDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:23:29.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDetailRequest.cs",
+              "DocumentMoniker": "D:\\CarApi3March\\Model\\CarDetailRequest.cs",
+              "RelativeDocumentMoniker": "Model\\CarDetailRequest.cs",
+              "ToolTip": "D:\\CarApi3March\\Model\\CarDetailRequest.cs",
+              "RelativeToolTip": "Model\\CarDetailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:02:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDetails.cs",
+              "DocumentMoniker": "D:\\CarApi3March\\Model\\CarDetails.cs",
+              "RelativeDocumentMoniker": "Model\\CarDetails.cs",
+              "ToolTip": "D:\\CarApi3March\\Model\\CarDetails.cs",
+              "RelativeToolTip": "Model\\CarDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:58:34.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarDetailsController.cs",
+              "DocumentMoniker": "D:\\CarApi3March\\Controllers\\CarDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarDetailsController.cs",
+              "ToolTip": "D:\\CarApi3March\\Controllers\\CarDetailsController.cs",
+              "RelativeToolTip": "Controllers\\CarDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:58:12.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "ContainingType": "CarApi3March.Controllers.CarDetailsController",
+    "Method": "GetCarDetailsById",
+    "RelativePath": "api/CarDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarApi3March.Controllers.CarDetailsController",
+    "Method": "GetAllCarDetails",
+    "RelativePath": "api/CarDetails/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarApi3March.Controllers.CarDetailsController",
+    "Method": "DownloadAllCarDetails",
+    "RelativePath": "api/CarDetails/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarApi3March.Controllers.CarDetailsController",
+    "Method": "UpdateCarDetails",
+    "RelativePath": "api/CarDetails/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "CarMaker",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarModel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CubicCapacity",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NoOfWheels",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ManufactureYear",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NoOfPassengers",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic1",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic2",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic3",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarApi3March.Controllers.CarDetailsController",
+    "Method": "UploadCarDetails",
+    "RelativePath": "api/CarDetails/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CarMaker",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarModel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CubicCapacity",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NoOfWheels",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ManufactureYear",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NoOfPassengers",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic1",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic2",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "CarPic3",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
